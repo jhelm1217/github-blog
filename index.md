@@ -36,7 +36,7 @@
 <h3> What is something you wish you could do but currently do not have the coding skills to accomplish? </h3>
 <p> There's alot I wish I knew more of when it comes to coding. After this week with the webpage, I definitely want to get comfortable with using html and css and if I get stuck, I want to be able to know where exactly to go to help me get through a situation. </p>
 
-<h3> What am I struggling with?<h/3>
+<h3> What am I struggling with?</h3>
 <p> I am currently struggling with not being overwhelmed with all the new information that I'm learning. It is super confusing at first, but after some practice of using it and getting used to the techniques more, I should be fine.</p>
 
 <h3> How do you solve a problem? </h3>
