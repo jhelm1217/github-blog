@@ -7,9 +7,10 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
 
-
+<header>
 ![Ja'ci](./IMG_3006.jpeg)
 ![Poppa](./IMG_0314.jpeg)
+</header>
 
 <body>
 <h3> Hi, I have two cats! a Gray Tabby named Poppa, my cuddle big baby and a crazy, sassy and wild tortieshell named Ja'ci who keeps me on my toes. And yes.... she's named after me. lol </h3>
