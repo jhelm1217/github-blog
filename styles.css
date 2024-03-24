@@ -1,12 +1,67 @@
 body {
     background-color: forestgreen;
+    background-image: url("photo-1512386233331-f023884a92e8.avif");
   }
-  h1 {
-    color: blue;
-    font-size: 15px;
-    font-family: 'Courier New', Courier, monospace;
+head {
+    text-align: right;
+    background-color: pink;
+}
+header {
+    text-align: right;
     font-style: italic;
+    font-size: xx-large;
+    color: bisque;
+    margin: auto;
+}
+h1 {
+    background-color: grey;
+    text-align: center;
+}
+h2 {
+    font-style: italic;
+}
+p {
+    color: beige; 
+}
+
+li {
+    color: beige;
+}
+
+style {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
   }
-  p {
-    color: red;
+
+  /* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 25%;
+    padding: 20px;
+    margin: auto;
+    column-gap: 40px;
   }
+
+.row:after{
+    content:"";
+    display: table;
+    clear: both;
+}
+
+ 
+
+  
+  
