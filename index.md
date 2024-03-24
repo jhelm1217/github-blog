@@ -8,8 +8,8 @@
   </head>
 
 <header>
-![Ja'ci](./IMG_3006.jpeg)
-![Poppa](./IMG_0314.jpeg)
+<img src="IMG_3006.jpeg" alt="Jaci">
+<img src="IMG_0314.jpeg" alt="Poppa">
 </header>
 
 <body>
