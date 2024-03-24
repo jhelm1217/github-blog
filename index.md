@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-
     <title> Welcome to Jacinta's World! </title>
     <link rel="stylesheet" href="styles.css" />
   </head>
@@ -40,7 +39,7 @@
 <h5> Majority of the time I really just need to slow down. I get ahead of myself and get in my head. I take a lot of breaks in between time. I go back and look at other peoples codes or even try to understand it more with examples from google, etc. I reach out to other classmates and my instructor. </h5>
 
 <h3> What methods do you use to help yourself get unstuck? </h3>
-</h5> I go back and look over my work to see what I've done. Reading the material first hand doesn't really help me much. It's kind of like I'm reading a bunch a matrial and have no idea what I'm reading. So I reread the material again as I go through the problems and by doing it makes more sense that way to me. Of course I reach out to my instructor and classmates as well!</h5>
+<h5> I go back and look over my work to see what I've done. Reading the material first hand doesn't really help me much. It's kind of like I'm reading a bunch a matrial and have no idea what I'm reading. So I reread the material again as I go through the problems and by doing it makes more sense that way to me. Of course I reach out to my instructor and classmates as well!</h5>
 
 <h2>Week 3! </h2>
 
