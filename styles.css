@@ -10,9 +10,10 @@ header {
     text-align: right;
     font-style: italic;
     font-size: xx-large;
-    color: bisque;
+    color: purple;
     margin: auto;
 }
+
 h1 {
     background-color: grey;
     text-align: center;
