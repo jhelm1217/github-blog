@@ -50,7 +50,7 @@ img:hover {
   /* Create three equal columns that floats next to each other */
 .column {
     float: left;
-    width: 25%;
+    width: 20%;
     padding: 20px;
     margin: auto;
     column-gap: 40px;
