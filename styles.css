@@ -63,4 +63,23 @@ img:hover {
 
 .row:after{
     content:"";
+<<<<<<< HEAD
   
+=======
+    display: table;
+    clear: both;
+}
+
+.topnav {
+  background-color: antiquewhite;
+  justify-content: center;
+}
+.topnav a {
+  float: right;
+  font-size: 35px;
+  padding: 14px 16px;
+  text-align: center;
+  color: purple;
+}
+  
+>>>>>>> bb6e4ba (stylesheetguidehtml)
