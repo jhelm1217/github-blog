@@ -1,2 +1,2 @@
 # github-blog
-second attempt to my blog. that got deleted on accident
+I've added a link to my contact card in my blog. you can click "Reach Out" for more information. 
