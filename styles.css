@@ -25,8 +25,23 @@ p {
     color: rgb(246, 246, 207); 
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  /* float: right; */
+  overflow: hidden;
+}
+
 li {
     color: beige;
+    display: inline;
+    float: right;
+}
+
+a {
+  display: block;
+  padding: 8px;
 }
 
 style {
@@ -62,10 +77,7 @@ img:hover {
   }
 
 .row:after{
-    content:"";
-<<<<<<< HEAD
-  
-=======
+    /* content: */
     display: table;
     clear: both;
 }
@@ -75,11 +87,11 @@ img:hover {
   justify-content: center;
 }
 .topnav a {
-  float: right;
+  float: left;
   font-size: 35px;
   padding: 14px 16px;
   text-align: center;
   color: purple;
 }
   
->>>>>>> bb6e4ba (stylesheetguidehtml)
+/* (stylesheetguidehtml) */

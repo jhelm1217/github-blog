@@ -1,3 +1,9 @@
+header {
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+}
+
 body {
     background-color:gray;
     background-image: url("vines.jpeg");
@@ -5,6 +11,16 @@ body {
     height: 100vh;
 }
 
+img {
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
 .card-img-top {
     border-radius: 50% 50% 50% 50%;
     width: 100%;
@@ -39,3 +55,23 @@ body {
     border-radius: 25px;
     padding-left: 15px;
 }
+
+.row {
+    position: relative;
+    float: left;
+  
+  }
+    /* Create three equal columns that floats next to each other */
+  .column {
+      float: left;
+      width: 20%;
+      padding: 20px;
+      margin: auto;
+      column-gap: 40px;
+    }
+  
+  .row:after{
+      /* content: */
+      display: table;
+      clear: both;
+  }
