@@ -4,13 +4,28 @@ header {
     text-align: center;
 }
 
-body {
+.aboutme {
+    background-color:gray;
+    background-image: url("vines.jpeg");
+    background-position: center center;
+    height: 100vh;
+}
+.contactme {
     background-color:gray;
     background-image: url("vines.jpeg");
     background-position: center center;
     height: 100vh;
 }
 
+.blog {
+    /* background-color:gray; */
+    background-image: url("growth2.jpeg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
 img {
     border: 1px solid;
     border-radius: 4px;
