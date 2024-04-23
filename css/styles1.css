@@ -33,6 +33,18 @@ header {
     font-style: italic;
     font-size: 25px;
 }
+.projects {
+    background-image: url("green blur .jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: hotpink;
+    font-size: 45px;
+    padding: 10px;
+    border: 2px solid hotpink;
+    display: inline-block;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
 img {
     border: 1px solid;
     border-radius: 4px;
