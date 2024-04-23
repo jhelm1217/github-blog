@@ -6,9 +6,10 @@ header {
 
 .aboutme {
     background-color:gray;
-    background-image: url("vines.jpeg");
+    background-image: url("sunflower.jpeg");
     background-position: center center;
     height: 100vh;
+    background-size: cover;
 }
 .contactme {
     background-color:gray;
